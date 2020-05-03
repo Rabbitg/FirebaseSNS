@@ -18,7 +18,7 @@
 <p align="center">
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914190-f55e0300-8d84-11ea-9537-a6c1e51949e7.png">
 </p><p align="center">
-  <img src="https://user-images.githubusercontent.com/51067267/80914191-f5f69980-8d84-11ea-93ef-7b53448a41a0.png">
+  <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914191-f5f69980-8d84-11ea-93ef-7b53448a41a0.png">
 </p>
 <p align="center">
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914193-f68f3000-8d84-11ea-9985-48ed16131dd5.png">
