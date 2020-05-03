@@ -1,9 +1,9 @@
 # Firebase SNS
 ## 안드로이드 With Kotlin 앱 프로그래밍 가이드에 있는 내용으로 공부하고 있습니다.
 <div>
-  <p align="center">
+
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914184-f2631280-8d84-11ea-953b-0fc1da8ffdac.png">
-  </p>
+
   <p align="center">
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914194-f727c680-8d84-11ea-8a56-fb975bf566fd.png">
   </p>
