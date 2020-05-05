@@ -4,11 +4,7 @@
   <p style="text-align: center;">
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914184-f2631280-8d84-11ea-953b-0fc1da8ffdac.png">
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914194-f727c680-8d84-11ea-8a56-fb975bf566fd.png">
-  </p>
-  <p align="center">
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914186-f3943f80-8d84-11ea-93c6-3387a7353ffa.png">
-  </p>
-<p align="center">
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914187-f42cd600-8d84-11ea-9f7f-b66bf59d33a7.png">
 </p>
 <p align="center">
