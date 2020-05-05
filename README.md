@@ -1,10 +1,7 @@
 # Firebase SNS
 ## 안드로이드 With Kotlin 앱 프로그래밍 가이드에 있는 내용으로 공부하고 있습니다.
-<style type="text/css">
-#box{width:400px;height:400px;border:1px solid #000; position:relative}
-#box img{display:block; position:absolute; top:50%; left:50%; margin-left:-97px; margin-top:-130px;}
-</style>
-<div width:400px;height:400px;border:1px solid #000; position:relative>
+
+<div style="border: 1px dashed #BDBDBD; background-color: #D1B2FF;  width: 340px; height: 285px; margin-left: auto; margin-right: auto; padding: 5px; text-align: center; line-height: 285px; vertical-align:middle;">
   <p style="text-align: center;">
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914184-f2631280-8d84-11ea-953b-0fc1da8ffdac.png">
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914194-f727c680-8d84-11ea-8a56-fb975bf566fd.png">
