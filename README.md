@@ -3,8 +3,7 @@
 <div>
   <p align="center">
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914184-f2631280-8d84-11ea-953b-0fc1da8ffdac.png">
-  </p>
-  <p align="center">
+
   <img weight = "300dp", height = "300dp" src="https://user-images.githubusercontent.com/51067267/80914194-f727c680-8d84-11ea-8a56-fb975bf566fd.png">
   </p>
   <p align="center">
